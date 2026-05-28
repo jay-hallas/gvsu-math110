@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-01-01-lin-patterns">
+  <title>Linear Patterns</title>
+
+  <p>This short lesson introduces what it means for a pattern to be linear.</p>
+
+  <definition xml:id="def-linear-pattern">
+    <statement>
+      <p>A pattern is <term>linear</term> if for each increase in step by one unit, the number of objects counted in the pattern
+     increases by a constant amount <m>m</m>.</p>
+    </statement>
+  </definition>
+
+  <p> Consider the following pattern. </p>
+<figure xml:id="fig-01-01-1-linear-pattern">
+  <caption>A visual pattern where the number of trees is increasing.</caption>
+  <image source="01-01-1-trees.png">
+    <shortdescription>A pattern where at step 1 there are 5 trees, at step 2 there are 7 trees, at step 3 there are 9 trees, and at step 4 there are 11 trees.</shortdescription>
+  </image>
+</figure>
+  <example>
+    <title>A Linear Pattern</title>
+    <statement>
+      <p>Show that a triangle with sides 3, 4, and 5
+      is a right triangle.</p>
+    </statement>
+    <solution>
+      <p>Check: <m>3^2 + 4^2 = 9 + 16 = 25 = 5^2</m>.</p>
+    </solution>
+  </example>
+
+  <exercise>
+    <statement>
+      <p>Find the length of the hypotenuse of a right
+      triangle with legs of length 5 and 12.</p>
+    </statement>
+  </exercise>
+
+
+</section>
