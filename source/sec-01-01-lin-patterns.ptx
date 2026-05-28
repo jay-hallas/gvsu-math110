@@ -11,22 +11,28 @@
      increases by a constant amount <m>m</m>.</p>
     </statement>
   </definition>
-
   <p> Consider the following pattern. </p>
 <figure xml:id="fig-01-01-1-linear-pattern">
   <caption>A visual pattern where the number of trees is increasing.</caption>
-  <image source="01-01-1-trees.png">
+  <image source="01-01-1-linear_pattern_trees_fixed.svg">
     <shortdescription>A pattern where at step 1 there are 5 trees, at step 2 there are 7 trees, at step 3 there are 9 trees, and at step 4 there are 11 trees.</shortdescription>
   </image>
 </figure>
+<p> Since at each step, the number of trees is increasing by 2, that means the pattern is linear. It is worth noting that with additional information that we might see that the pattern changes. For these questions, we are trying to determine if a pattern fits based on the given data.  </p>
   <example>
-    <title>A Linear Pattern</title>
+    <title>Is the Pattern Linear?</title>
     <statement>
-      <p>Show that a triangle with sides 3, 4, and 5
-      is a right triangle.</p>
+      <p>Determine whether the following pattern represents linear change or not.</p>
+      <figure xml:id="fig-01-01-2-nonlinear-pattern">
+  <caption>A visual pattern where the number of stars is increasing.</caption>
+  <image source="01-01-2-nonlinear_pattern_stars.svg">
+    <shortdescription>A pattern where at step 1 there is 1 star, at step 2 there are 2 stars, at step 3 there are 4 stars, and at step 4 there are 7 stars.</shortdescription>
+  </image>
+</figure>
     </statement>
     <solution>
-      <p>Check: <m>3^2 + 4^2 = 9 + 16 = 25 = 5^2</m>.</p>
+       <p>The pattern is <em>not</em> linear. </p>
+      <p>Notice at the first step the number of stars increase by 1, but then at the second step the number of stars increase by 2. Since the amount of increase per unit step changes, this cannot be a linear pattern.</p>
     </solution>
   </example>
 
