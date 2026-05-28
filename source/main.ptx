@@ -13,8 +13,7 @@
 
     <!-- Include chapters -->
     <xi:include href="./ch-01-linear.ptx" />
-
-
+    <xi:include href="./ch-10-Practice-Quizzes.ptx" />
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
 
